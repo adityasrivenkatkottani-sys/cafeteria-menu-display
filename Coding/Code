@@ -1,0 +1,8 @@
+ current.status = 'Published';
+
+                  current.update();
+
+            gs.addInfoMessage("Menu has been marked as Published") 
+
+            action.setRedirectURL(current);
+
